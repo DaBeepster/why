@@ -1,3 +1,0 @@
-function ah() {
-  alert('sus');
-}
