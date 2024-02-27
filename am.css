@@ -1,3 +1,7 @@
-h1 {
+.header {
   color: red;
+  display: inline-block;
+}
+.header:hover {
+  cursor: pointer;
 }
