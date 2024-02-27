@@ -1,7 +1,16 @@
-.header {
+.wow {
   color: red;
   display: inline-block;
+  background-color: blue;
+  padding: 10px;
+  border: 20px solid red;
+  border-radius: 10px;
 }
-.header:hover {
+.wow:hover {
   cursor: pointer;
+}
+.wow:active {
+  color: blue;
+  background-color: red;
+  border: 20px solid blue;
 }
